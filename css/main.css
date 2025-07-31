@@ -69,7 +69,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
     display: block;
 }
  list-style: none;
-}
 a:focus { 
     text-decoration: none; 
 }
@@ -1021,14 +1020,14 @@ ul li .icon-box.icon-style-border i{
 /** SiteBrand(logo) **/
 .site-branding{
     float: left;
-    height: 105px;
+    height: 100%;
     line-height: 105px;
 }
 .ttm-header-top-wrapper{
     position: relative;
 }
 .site-branding img {
-    max-height: 45px;
+    max-height: 100px;
 }
 
 /** SiteNavigation(Menu) **/

@@ -333,7 +333,7 @@
         text-align: left;
         display: block;
         position: relative;
-    	background-color: #f3f7f9;
+    	/* background-color: #f3f7f9; */
         z-index: 10;
         margin-bottom: 32.5px;
     }
@@ -347,12 +347,12 @@
         height: 154px;
         margin-right: 0px;
         margin-left: 0px;
-    	background-color: #f3f7f9;
+    	/* background-color: #f3f7f9; */
     }
     .ttm-header-style-infostack .ttm-header-top-wrapper .site-branding:before {
         left: auto;
         right: 100%;
-        width: 1200px;
+        width: 100px;
     }
     .ttm-header-style-infostack #site-header-menu{
         float: none; 
