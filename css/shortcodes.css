@@ -60,8 +60,8 @@
 
 ---------------------------------------------------------------*/
 body .page .site-main >.ttm-row:not(.intro-section):first-child {margin-top: -92px; }
-.ttm-row{ padding: 90px 0;}
-.ttm-row.welcome-section{ padding: 90px 0 0; }
+.ttm-row{ padding: 50px 0;}
+.ttm-row.welcome-section{ padding: 30px 0 0; }
 .ttm-row.intro-section{ padding: 0 0; }
 .ttm-row.intro-section.style2{ padding: 100px 0 90px; margin-top: -92px;}
 .ttm-row.intro-section.style3{ padding: 0px 0 90px;}
@@ -79,7 +79,7 @@ body .page .site-main >.ttm-row:not(.intro-section):first-child {margin-top: -92
 .ttm-row.testimonial-section2{  padding: 170px 0 95px; z-index: -1;}
 .ttm-row.fid-section.bg-img5 { padding: 50px 0; }
 .ttm-row.client-section{ padding: 140px 0 0; }
-.ttm-row.client-section.style2{ padding: 80px 0 0; }
+.ttm-row.client-section.style2{ padding: 150px 0 0; }
 .ttm-row.company-template-section{ padding: 0 0;}
 .ttm-row.tab-text-section{ padding: 100px 0 107px; }
 .ttm-row.bg-layer-section{ padding: 0 0; }
@@ -88,14 +88,14 @@ body .page .site-main >.ttm-row:not(.intro-section):first-child {margin-top: -92
 .ttm-row.bg-img5{ padding: 108px 0 87px; }
 .ttm-row.features-section{ padding: 0 0; }
 .ttm-row.empty-section{ padding: 150px 0 130px; position: relative;}
-.ttm-row.empty-section2{ padding: 100px 0; }
+.ttm-row.empty-section2{ padding: 70px 0; }
 .ttm-row.empty-section3{ padding: 100px 0 150px; }
 .ttm-row.portfolio-section { padding: 0px 0 0px; }
 .ttm-row.portfolio-title-section { padding: 100px 0 140px; }
 .ttm-row.img-box-section { padding: 0 0 80px; }
 .ttm-row.blog-title-section{ padding: 87px 0 180px; }
 
-.ttm-row.testimonial-section_1 {padding: 390px 0 115px;}
+.ttm-row.testimonial-section_1 {padding: 200px 0 0px;}
 .ttm-row.service-section_1 {padding: 289px 0 170px;}
 .ttm-row.welcome-section_1{ padding: 4px 0 90px; }
 .ttm-row.team-section_1 { padding: 97px 0 140px;}
@@ -3950,14 +3950,6 @@ ul.ttm-list {
 /*** Color Switcher Style
 ==================================================================== ***/
 
-.tmtheme_fbar_icons {
-    display: block;
-    position: relative;
-    width: 55px;
-    height: 45px;
-    line-height: 52px;
-    text-align: center;
-}
 .tmtheme_fbar_icons i {
     display: inline-block;
     vertical-align: middle;

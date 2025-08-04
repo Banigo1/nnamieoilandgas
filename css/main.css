@@ -1556,15 +1556,15 @@ ul.footer-nav-menu li:last-child:after{
 ------------------------*/
 
 .ttm-page-title-row { 
-    background-image: url(../images/ttm-pagetitle-bg.png);
+    background-image: url(../images/slides/slider-mainbg-002.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 .ttm-page-title-row { 
     display: block;
-    padding-top: 165px; 
-    padding-bottom: 158px;
+    padding-top: 30px; 
+    padding-bottom: 30px;
 }
 .title-box .page-title-heading h1 {
     font-family: "Titillium Web",Arial,Helvetica,sans-serif;
