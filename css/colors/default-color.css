@@ -28,7 +28,6 @@ ul li .icon-box.icon-style-border i,
 .ttm-bgcolor-darkgrey .ttm-fid-contents h4,
 .ttm-bgcolor-darkgrey .featured-title.ttm-textcolor-skincolor h5,
 .ttm-bgcolor-darkgrey .col-title h2.title strong,
-.ttm-bgcolor-darkgrey.first-footer .widget .widget-title,
 footer a:hover,
 .ttm-textcolor-white a:hover,
 .ttm-btn.ttm-btn-color-white.btn-inline:hover,
@@ -68,10 +67,11 @@ article.post blockquote:before,
 .ttm-team-member-single-position,
 .ttm-btn.ttm-btn-color-skincolor.ttm-btn-style-border,
 section.error-404 .ttm-big-icon{
-    color: #ff5e14;
+    /* color: #ff5e14; */
 }
 
-
+.ttm-bgcolor-darkgrey.first-footer .widget .widget-title,
+.ttm-bgcolor-darkgrey .widget .widget-title,
 
 /* ===============================================
     Background-Color
@@ -97,7 +97,6 @@ footer .widget.style2 .widget-title:after,
 #totop ,
 .ttm-search-overlay .ttm-site-searchform button ,
 .accordion .toggle:not(.ttm-toggle-title-bgcolor-grey):not(.toggle-style-border).active .toggle-title,
-.ttm-bgcolor-skincolor > .ttm-bg-layer,
 .timeline .timeline-body h3:after,
 .ttm-tabs ul.tabs li.active a,
 .ttm-tabs ul.tabs li:hover a,
@@ -145,7 +144,9 @@ a.checkout-button:hover, .coupon button:hover,
 }
 .ttm-video-btn:hover .ttm-btn-play{ background-color: rgba(255, 94, 24, 0.95); }
  a.highlight-skin-button:hover{ background-color: rgba(255, 94, 24, 0.65); color: #fff; }
-
+ .ttm-bgcolor-skincolor > .ttm-bg-layer {
+    /* background-color: #020d26 */
+}
 
 
 

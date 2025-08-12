@@ -96,9 +96,9 @@ body .page .site-main >.ttm-row:not(.intro-section):first-child {margin-top: -92
 .ttm-row.blog-title-section{ padding: 87px 0 180px; }
 
 .ttm-row.testimonial-section_1 {padding: 200px 0 0px;}
-.ttm-row.service-section_1 {padding: 289px 0 170px;}
+/* .ttm-row.service-section_1 {padding: 100px 0 170px;} */
 .ttm-row.welcome-section_1{ padding: 4px 0 90px; }
-.ttm-row.team-section_1 { padding: 97px 0 140px;}
+.ttm-row.team-section_1 { padding: 50px 0 10px; }
 
 
 
@@ -318,7 +318,7 @@ body .page .site-main >.ttm-row:not(.intro-section):first-child {margin-top: -92
 }
 .col-bg-img-fifteen.ttm-col-bgimage-yes .ttm-col-wrapper-bg-layer{
     background-image: url(../images/bg-image/col-bgimage-15.jpg) !important;
-    background-position: bottom !important;
+    /* background-position: bottom !important; */
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
