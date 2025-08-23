@@ -71,7 +71,9 @@ section.error-404 .ttm-big-icon{
 }
 
 .ttm-bgcolor-darkgrey.first-footer .widget .widget-title,
-.ttm-bgcolor-darkgrey .widget .widget-title,
+.ttm-bgcolor-darkgrey .widget .widget-title{
+    color:#ffffff;
+}
 
 /* ===============================================
     Background-Color
@@ -142,6 +144,7 @@ a.checkout-button:hover, .coupon button:hover,
 .color-trigger{
     background-color: #ff5e14;
 }
+
 .ttm-video-btn:hover .ttm-btn-play{ background-color: rgba(255, 94, 24, 0.95); }
  a.highlight-skin-button:hover{ background-color: rgba(255, 94, 24, 0.65); color: #fff; }
  .ttm-bgcolor-skincolor > .ttm-bg-layer {
@@ -191,9 +194,3 @@ a.tp-caption,
 .featured-portfolio-item .content-post.content-portfolio-post:before {
     border-color: transparent transparent #ff5e14 transparent;
 }
-ul.products li.product .onsale:after {
-    border-color: #ff5e14 transparent transparent;
-}
-div.product ul.tabs li.active:before{ border-top: 8px solid #ff5e14;}
-.tp-caption.tp-shape.tp-shapewrapper{ background-color: rgba(255, 94, 20, 0.8) ; border-color: rgba(255, 94, 20, 0.6);}
-.tp-caption.ttm_prettyphoto:hover{ background-color: rgba(255, 94, 20, 0.6);}

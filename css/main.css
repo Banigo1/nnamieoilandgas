@@ -1422,7 +1422,7 @@ ul.widget-post.ttm-recent-post-list li:not(:last-child){
 }
 .widget ul#menu-footer-services li a:after {
     content: "";
-    background-color: #8c8c8c;
+    /* background-color: #8c8c8c; */
     width: 1px;
     height: 57px;
     position: absolute;

@@ -1766,7 +1766,7 @@ h2.title strong{
     position: relative;
 }
 .testimonial-box.testimonial-bgimg-box{
-    background-image: url(../images/bg-image/row-bgimage-4.jpg);
+    /* background-image: url(../images/bg-image/row-bgimage-4.jpg); */
     padding-top: 0px !important;
     padding-right: 70px !important;
     padding-bottom: 0px !important;
